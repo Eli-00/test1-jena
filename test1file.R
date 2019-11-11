@@ -1,5 +1,5 @@
 ###test
 
-y<-runif(20)
-x<-seq(1,20)
+y<-runif(30)
+x<-seq(1,30)
 plot(y~x)
